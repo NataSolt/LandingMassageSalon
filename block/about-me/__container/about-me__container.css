@@ -1,0 +1,7 @@
+.about-me__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(282px, 282px));
+  grid-column-gap: 17px;
+  grid-row-gap: 20px;
+  justify-content: center;
+}

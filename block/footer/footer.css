@@ -1,0 +1,12 @@
+.footer {
+  padding: 30px 30px;
+  background-color: #ecdcd6;
+  color: #555555;
+  justify-content: center;
+}
+
+@media (max-width: 340px) {
+  .footer {
+    padding: 30px 15px;
+  }
+}

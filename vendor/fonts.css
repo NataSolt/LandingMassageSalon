@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Jost-Bold.woff2) format("woff2"),
+    url(../fonts/Jost-Bold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/Jost-Light.woff2) format("woff2"),
+    url(../fonts/Jost-Light.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/Jost-Medium.woff2) format("woff2"),
+    url(../fonts/Jost-Medium.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Jost-Regular.woff2) format("woff2"),
+    url(../fonts/Jost-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/Jost-SemiBold.woff2) format("woff2"),
+    url(../fonts/Jost-SemiBold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Old Standard TT";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/OldStandardTT-Bold.woff2) format("woff2"),
+    url(../fonts/OldStandardTT-Bold.woff) format("woff");
+}

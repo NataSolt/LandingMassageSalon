@@ -1,0 +1,14 @@
+.about-price__box:last-of-type {
+  padding-right: 40px;
+  padding-left: 0;
+}
+
+@media (max-width: 450px) {
+  .about-price__box {
+    padding-left: 10px;
+  }
+
+  .about-price__box:last-of-type {
+    padding-right: 10px;
+  }
+}

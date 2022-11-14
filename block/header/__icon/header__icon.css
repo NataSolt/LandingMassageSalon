@@ -1,0 +1,13 @@
+.header__icon {
+  padding-right: 10px;
+  /* margin-top: 10px; */
+  align-self: center;
+  max-width: 24px;
+  max-height: 24px;
+}
+
+@media (max-width: 350px) {
+  .header__icon {
+    padding-right: 5px;
+  }
+}

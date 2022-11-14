@@ -1,0 +1,34 @@
+.info__title {
+  font-family: "Old Standard TT";
+  font-size: 74px;
+  font-weight: 700;
+  line-height: 104px;
+  position: absolute;
+  left: 30px;
+  color: #555555;
+}
+
+@media (max-width: 980px) {
+  .info__title {
+    font-size: 55px;
+    text-align: center;
+    line-height: 56px;
+    left: 10px;
+    margin: 10px;
+  }
+}
+
+@media (max-width: 550px) {
+  .info__title {
+    /* font-size: 32px;
+      line-height: 36px; */
+    position: relative;
+  }
+}
+
+@media (max-width: 360px) {
+  .info__title {
+    font-size: 32px;
+    line-height: 36px;
+  }
+}

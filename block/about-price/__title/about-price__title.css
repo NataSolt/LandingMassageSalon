@@ -1,0 +1,17 @@
+.about-price__title {
+  font-family: "Old Standard TT";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 64px;
+  letter-spacing: 0.05em;
+  margin: 0 0 50px 0;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .about-price__title {
+    font-size: 40px;
+    line-height: 40px;
+  }
+}

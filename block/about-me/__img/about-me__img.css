@@ -1,0 +1,9 @@
+.about-me__img {
+  width: 282px;
+  border: 2px solid #ecdcd6;
+}
+
+.about-me__img:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

@@ -1,0 +1,8 @@
+.page {
+  font-family: "Jost", Arial, sans-serif;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: 1280px;
+}

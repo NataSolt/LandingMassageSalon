@@ -1,0 +1,7 @@
+.about-price__container {
+  display: flex;
+  flex-direction: row;
+  background-color: #f9f3f1;
+  justify-content: center;
+  margin: 0 auto;
+}

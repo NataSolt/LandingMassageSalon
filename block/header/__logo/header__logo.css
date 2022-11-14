@@ -1,0 +1,15 @@
+.header__logo {
+  font-family: "Old Standard TT";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 41px;
+  margin-top: 7px;
+}
+
+@media (max-width: 620px) {
+  .header__logo {
+    font-size: 20px;
+    line-height: 26px;
+  }
+}

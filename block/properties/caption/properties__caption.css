@@ -1,0 +1,25 @@
+.properties__caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  color: #555555;
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .properties__caption {
+    font-size: 16px;
+    line-height: 23px;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 350px) {
+  .properties__caption {
+    padding: 0px;
+  }
+}

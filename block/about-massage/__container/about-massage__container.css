@@ -1,0 +1,9 @@
+.about-massage__container {
+  padding-right: 18px;
+}
+
+@media (max-width: 980px) {
+  .about-massage__container {
+    padding: 0 18px;
+  }
+}

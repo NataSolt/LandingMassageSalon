@@ -1,0 +1,24 @@
+.about-price__subtitle {
+  font-family: "Old Standard TT";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  list-style: none;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #ecdcd6;
+  margin: 20px 0 20px 0;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .about-price__subtitle {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 590px) {
+  .about-price__subtitle {
+    height: 50px;
+  }
+}

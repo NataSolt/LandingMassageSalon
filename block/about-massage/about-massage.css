@@ -1,0 +1,13 @@
+.about-massage {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 0;
+  padding: 50px 90px;
+  background-color: #f9f3f1;
+}
+
+@media (max-width: 680px) {
+  .about-massage {
+    padding: 40px 30px;
+  }
+}
